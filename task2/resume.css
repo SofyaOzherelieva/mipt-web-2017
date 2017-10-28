@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, serif;
+}
+
+.about {
+    margin: 1.5em 8;
+    padding: 0.5em 15px;
+    line-height: 1.5;
+    background: #fa5000;
+    border-left: 2px solid #ccc;
+}
+
+.experience {
+    margin: 1.5em 8;
+    padding: 0.5em 15px;
+    line-height: 1.5;
+    background: #faf000;
+    border-left: 2px solid #ccc;
+}
+
+.contacts {
+    margin: 1.5em 8;
+    padding: 0.5em 15px;
+    line-height: 1.5;
+    background: #f000ff;
+    border-left: 2px solid #ccc;
+}
